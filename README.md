@@ -19,7 +19,7 @@ This project is a **frontend-focused** interactive **iPhone 17 Pro clone** built
 ## 📦 Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/iphone17-clone.git
+   git clone https://github.com/aksh10patil/iphone17-pro.git
    cd iphone17-clone
    ```
 2. Install dependencies:
